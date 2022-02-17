@@ -4,7 +4,7 @@ public class upcast1
 {
 public void addition() 
 {
-	int a=10;
+	int a=121;
 	int b=20;
 	int sum=a+b;
 	System.out.println(sum);
